@@ -1,3 +1,4 @@
-# Tesis_Uruapan
-Código utilizado para generar los resultados de mi tesis
-* Los resultados del código se pueden apreciar en los archivos de imágen.
+# Seismic swarm occurred in Uruapan, Michoacan.
+
+Here you will find the code that I used to make the analysis and the plots of the seismic swarm occurred in Uruapan.
+
